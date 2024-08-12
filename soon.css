@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url('https://images.ctfassets.net/pdf29us7flmy/5adoXv0K3dr6LyE3zdtAG7/3231d27c50e40162a0fca9235167c04f/08_How_to_respond_D2_social.png?w=720&q=100&fm=jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+h1 {
+    font-weight: bold;
+    font-size: 3em;
+    color: rgb(229, 80, 80);
+    text-align: center;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+}
